@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +8,7 @@
 <body>
 
 
-    <!DOCTYPE html>
+    
     <html lang="es">
     <head>
       <meta charset="UTF-8">
@@ -176,5 +176,5 @@
 </html>
 
 
-# basesdelatecnologiananyeli.github.io
+gracias por visitarme 
 cifrador cesar 
